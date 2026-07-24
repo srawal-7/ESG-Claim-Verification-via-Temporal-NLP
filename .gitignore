@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data (large files, keep out of git)
+data/*.csv
+data/*.json
+data/*.tsv
+data/*.zip
+
+# Model outputs / large artifacts
+*.pt
+*.h5
+*.pkl
