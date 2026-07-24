@@ -1,0 +1,457 @@
+As we  reflect on the seriousness of the climate crisis, we have  expanded our ambition to meet this urgent climate  need by investing in a broad range of initiatives,  technologies and approaches that support a net  zero future. [score: 0.72]
+
+As we look toward  2030—and beyond—we  remain optimistic about  our collective ability to  decarbonize the global  economy while continuing  to grow and prosper as a  global community. [score: 0.69]
+
+In 2020, we made a bold set of commitments: to be a  carbon negative, water positive, zero waste company  that protects ecosystems—all by 2030. [score: 0.72]
+
+When we made our carbon negative commitment  in 2020 it wasn’t just a challenge to support the  sustainability of our business, it was also an invitation  to the world to participate in this journey, translating  ingenuity into action, and action into impact. [score: 0.86]
+
+3 percent and are on track to  eliminate their use by 2025. [score: 0.81]
+
+The majority of  our customers have already made a climate pledge and  Microsoft is working to help them move from pledges  to progress. [score: 0.60]
+
+In June 2022, we launched  Microsoft Cloud for Sustainability, a comprehensive  environmental sustainability management platform  that includes Microsoft Sustainability Manager. [score: 0.64]
+
+In 2022, we further committed to shaping public policy  by releasing policy briefs on carbon and electricity. [score: 0.81]
+
+Carbon measurement and the Carbon Call In February 2022, Microsoft, ClimateWorks Foundation,  and over 20 leading organizations launched an  important new initiative called the Carbon Call. [score: 0.65]
+
+ClimateWorks Foundation  is building this program to a global scale. [score: 0.66]
+
+The Carbon  Call now has over 80 signatories, and released its initial  roadmap at COP27. [score: 0.65]
+
+Microsoft is investing  in accelerating climate innovation through our  $1 billion Climate Innovation Fund (CIF). [score: 0.76]
+
+We invest in  innovative technologies and business models that  have the potential for meaningful, measurable climate  impact by 2030. [score: 0.85]
+
+A decade of innovation  and decisive action   As we look toward 2030—and beyond—we remain  optimistic about our collective ability to decarbonize  the global economy while continuing to grow and  prosper as a global community. [score: 0.79]
+
+3  Creating tools that advance emissions  measurement and compliance. [score: 0.92]
+
+The Microsoft Cloud for Sustainability data model initially focused  on carbon and was expanded in 2022 to include water data. [score: 0.67]
+
+Advanced policy To support our policy work, we published several briefs  on carbon and electricity policy to share the priorities and  principles that guide Microsoft’s policy advocacy  work around the world. [score: 0.85]
+
+We also  made first-of-a-kind multi-year forward  offtake commitments to carbon  removal, which we view as the model  for scaling this industry. [score: 0.96]
+
+This guided us to make  our commitments to be a carbon negative,  water positive, zero waste company by 2030. [score: 0.67]
+
+In 2020,  Microsoft made industry-leading commitments to be  carbon negative, water positive, and zero waste by  2030, and to protect more land than we use by 2025. [score: 0.74]
+
+Operationally, we see this  commitment as a journey that starts with reducing  carbon emissions as much as possible, replacing our  electricity consumption with carbon-free energy, and  removing the emissions that remain. [score: 0.68]
+
+The fee is designed to accelerate  carbon reduction and allocate funding to projects that  jumpstart and scale decarbonization technologies. [score: 0.87]
+
+In FY22, we redesigned and increased our carbon fee to  accelerate Scope 3 emissions reduction, tying the fee to  the costs abatement for different sources—electricity,  fuel, and other emissions. [score: 0.80]
+
+We will continue to evaluate  the carbon fee design to align our business operations  and 2030 carbon commitments. [score: 0.88]
+
+In FY22,  we included this activity in our results and procured  unbundled renewable energy credits (RECs) to mitigate  the increased emissions for FY22. [score: 0.67]
+
+Reducing value chain emissions  By 2030, we will reduce our Scope 3 emissions by more than half from  a 2020 baseline. [score: 0.76]
+
+Replacing with 100/100/0 carbon-free energy  By 2030, 100 percent of our electricity consumption will be matched  by zero carbon energy purchases 100 percent of the time. [score: 0.80]
+
+Removing the rest of our emissions  By 2030, Microsoft will remove more carbon than it emits. [score: 0.75]
+
+By 2050, we will remove an amount of carbon equivalent  to all our historical emissions. [score: 0.76]
+
+We also made first-of-their- kind multi-year forward offtake commitments to carbon removal, which we view as the model  for scaling the industry. [score: 0.95]
+
+44 million metric tons and retired 514,156 metric tons of carbon removal as part of our  effort toward achieving our annual carbon commitment to be carbon neutral. [score: 0.61]
+
+Carbon removal contracted each  year includes credits retired in the same year and to be retired in future years. [score: 0.77]
+
+Carbon negative by 2030: A company is carbon negative when it removes more carbon than it emits each year. [score: 0.85]
+
+This was driven by improvements in our  operations, telemetry-based measurement, renewable energy investments, sustainable aviation fuel purchases,  and procurement of unbundled renewable energy certificates (RECs). [score: 0.66]
+
+Moreover,  tackling Scope 3 means decarbonizing hard-to- abate industries, including the steel, concrete, and  other building materials used in our datacenters,  as well as jet fuel for business travel and logistics. [score: 0.65]
+
+In addition, all future built datacenters will   be LEED Gold certified. [score: 0.68]
+
+Innovating with thermal energy in  our campuses As part of our Redmond Campus Modernization  project, we built the Thermal Energy Center. [score: 0.66]
+
+Each of our campuses has a sustainability plan with  energy efficiency projects planned each year to drive  down our energy usage. [score: 0.76]
+
+Developing hydrogen fuel cells  for datacenters The decreasing cost of renewable sources, advancement  of green hydrogen production technology, and  increasing legislative focus are starting to show  potential to reduce the datacenter industry’s reliance  on fossil-based diesel fuels. [score: 0.74]
+
+Microsoft is demonstrating  the application of green hydrogen at industrial scales— with a first of its kind, zero emission, 3 MW hydrogen  polymer electrolyte membrane (PEM) fuel cell back- up power generator piloted in July 2022. [score: 0.71]
+
+This year, Microsoft opened our first  all-electric kitchen on our Redmond  campus. [score: 0.66]
+
+We are reducing fossil fuels with our first all-electric kitchen,  which uses 100 percent renewable power. [score: 0.80]
+
+Implementing all-electric kitchens This year, Microsoft opened our first all-electric kitchen  on our Redmond campus. [score: 0.67]
+
+Moving forward, we  intend to construct all new kitchens with all-electric  equipment and are developing retrofit plans for existing  operations. [score: 0.76]
+
+One Esterra is a preview of our  Redmond Campus Modernization which will have over  77,000 square feet of all-electric dining operations and  serve more than 10,000 meals a day. [score: 0.84]
+
+Electrifying our fleet We are committed to fully electrifying our global  campus operations vehicle fleet of over 1,800 vehicles  by 2030. [score: 0.77]
+
+In Redmond,  Microsoft purchased land to build an eight-acre  electric vehicle charging and maintenance facility for  its internal and external commute fleet of electric  buses and shuttles. [score: 0.64]
+
+This is attributed  to a few notable carbon reduction initiatives. [score: 0.84]
+
+This new data led us to purchase unbundled  renewable energy certificates (RECs) to offset a portion  of the emissions footprint from these devices. [score: 0.72]
+
+Just as  is the case for Scope 2 reduction efforts, we plan to  phase out the use of unbundled RECs in future years  as programs to reduce emissions take effect, including  substantial forward investments into new clean energy  facilities yet to commence operation. [score: 0.86]
+
+Microsoft has  prioritized improving the methodologies we use for  collecting data and calculating emissions for greater  precision and granularity. [score: 0.79]
+
+In July  2022, we updated our Supplier Code of Conduct (SCoC)  sustainability requirements to include independent  third-party assurance of emissions data and to deliver   a minimum 55 percent greenhouse gas (GHG) reduction  by 2030. [score: 0.82]
+
+Improving accounting methodologies For capital goods, we are developing new  methodologies to use product specific emissions  factors for building materials from the Embodied  Carbon in Construction Calculator (EC3). [score: 0.77]
+
+This methodology is under development (not yet  reflected in Scope 3 reporting metrics) and, in  combination with using EC3 in project decisions  to track and reduce embodied carbon at each phase  of construction, will enable us to reduce embodied  carbon emissions on our construction projects as well  as demonstrate those product-level reduction decisions  in future reporting cycles. [score: 0.73]
+
+This year,  we contributed to the “Life Cycle Assessment (LCA)  Guidelines for Cloud Providers” and provided the  guidelines to the Open Compute Project (OCP) to  encourage other cloud hardware organizations to better  understand and reduce their environmental impact. [score: 0.63]
+
+The LCAs will feed into an advanced Carbon  Data Platform to provide the most representative  emissions profile possible for our devices. [score: 0.61]
+
+In the future, we  are exploring how to increase accuracy by shifting to  hourly energy use tracking paired with more granular,  impact-relevant grid emission rate data. [score: 0.83]
+
+Microsoft has prioritized improving the  methodologies we use for collecting  data and calculating emissions for  greater precision and granularity. [score: 0.80]
+
+Reducing embodied carbon in buildings  and interiors To drive deeper reductions in embodied carbon, we  are pursuing the use of transformational low-carbon  materials. [score: 0.73]
+
+We completed  a lab-scale pilot of structural materials made from  biogenic limestone and algae-based concrete, which  have the potential to drive down embodied carbon  of concrete installations to near zero. [score: 0.61]
+
+Engineering carbon out of our cloud  operations and hardware supply chain We are focused on engineering carbon out of our  value chain via the infrastructure equipment we use  in the operation of our datacenters. [score: 0.74]
+
+Roadmapping our supply chain Since 2020, our SCoC has required that suppliers  disclose GHG emissions and plans to reduce those  emissions. [score: 0.84]
+
+In the indirect purchasing space, including consultancies  and marketing companies, suppliers are starting to  consider policies for hybrid work and exploring options  for how best to transition to renewable electricity. [score: 0.62]
+
+Reducing emissions in our devices  supply chain We continue to work with our device suppliers on  carbon reduction interventions, renewable energy  alternatives, and manufacturing process improvements. [score: 0.65]
+
+Decarbonizing transportation We partner with our transportation logistics ecosystem  to implement decarbonization solutions across our  logistics network. [score: 0.70]
+
+In 2022, our logistics teams explored  new ways to mitigate sources of logistics emissions. [score: 0.70]
+
+Based on the Global Logistics Emissions Council  (GLEC) Framework and cutting-edge tooling, the new  emissions approach will enable strategic investments  and optimizations across Microsoft’s logistics  operations in support of decarbonized transportation. [score: 0.93]
+
+We also launched the first  alternative energy vehicle (AEV) pilots for trucking. [score: 0.63]
+
+Advancing sustainable aviation Microsoft is advancing efforts to increase the  production of and accounting standards for  sustainable aviation fuel (SAF). [score: 0.67]
+
+Our long-term vision is to reach a state where, on all  the world’s grids, 100 percent of electrons, 100 percent  of the time, are generated from zero-carbon sources. [score: 0.75]
+
+By using emissions data to  determine where new solar generation can displace  the most carbon, Clearloop is collaborating with  Microsoft to expand access to clean energy in a  state that currently relies on fossil fuels to power  nearly 90 percent of its electricity. [score: 0.70]
+
+With Sustainable Energy for All, an  organization that works in partnership  with the United Nations, Microsoft  committed to take actions that drive  toward decarbonization of the electric  grid to combat climate change. [score: 0.75]
+
+Over the past 18 months, we have developed the  process and structures to create long-term carbon  removal offtake agreements designed to get new  projects built. [score: 0.80]
+
+We are now  building a portfolio with the goal of greater than five  million metric tons a year in offtakes in order to hit our  2030 goals, balanced across low, medium, and high- durability solutions. [score: 0.88]
+
+We are moving into the next phase  of our carbon removal journey. [score: 0.87]
+
+We are targeting multiple multi-year  purchases of up to 250,000 tons per year to serve as  a risk-diversified portfolio of projects meeting our  needs in 2030 and beyond. [score: 0.79]
+
+2022 projects and results  In FY22, we contracted 1,443,981 metric tons of carbon  removal. [score: 0.71]
+
+We also made multi-year commitments to  carbon removal. [score: 0.80]
+
+These projects will provide around  300,000 metric tons towards our greater than five  million metric ton goal in 2030. [score: 0.88]
+
+Second, bringing in more demand for CDR after the  landmark announcements of the First Movers Coalition  and Frontier Climate. [score: 0.74]
+
+Third, trialing the emerging set of  second wave, hybrid carbon removal solutions that are  coming to market, such as Heirloom, which combines  advantages of carbon mineralization and direct air  capture (DAC) to amplify the natural ability of limestone  to remove carbon dioxide from the air. [score: 0.81]
+
+2023 carbon removal key projects  Climeworks offtake  In July 2022, we signed a 10-year forward  agreement with Climeworks to purchase  DAC removals from their Orca and  Mammoth plants, building on our earlier  purchase commitment with Climeworks. [score: 0.93]
+
+This prototypical agreement is our  model for taking carbon removal to  scale and meeting our ambitious goals. [score: 0.80]
+
+Climate Robotics  Early in 2022, we signed a small deal  with Climate Robotics and we doubled- down in August with a four-year,  75,000 metric ton contract. [score: 0.71]
+
+That’s a neat bit of upcycling and a  great way to work carbon removal into  a circular-economy solution. [score: 0.77]
+
+CommuniTree  We renewed our investment in the  CommuniTree project in November  2022, signing for 700,000 metric tons in  the form of ex ante credits over the next  two years, which we project will deliver  >100,000 metric tons of ex post verified  carbon in 2030 and subsequent years. [score: 0.82]
+
+4 Corporate investment is needed to scale  nascent markets  Stakeholder expectations are increasing for corporate  involvement in renewable energy, SAF, and carbon removal  markets. [score: 0.62]
+
+While we are further along the trajectory toward  higher-impact vehicles for renewable energy, we see credit- based mechanisms for funding SAF, green steel, green  concrete, and carbon removal as critical for jumpstarting these  nascent markets. [score: 0.80]
+
+Read the paper  All-electric kitchens  Microsoft released a new white paper, Dining All-Electric, where we share our  lessons learned, technical details, and decision making for all-electric kitchens. [score: 0.62]
+
+2  Building markets: Scaling sustainability  initiatives, such as the Microsoft Climate  Innovation Fund and carbon fee, position us to  invest in and purchase from nascent technology  providers, like Heirloom, to build supply chains  for decarbonized materials and fuels. [score: 0.81]
+
+We will scale  supply chain decarbonization by aligning  financial and government leadership, to  signal global market demand and infuse  investment into infrastructure and technology  solutions worldwide. [score: 0.62]
+
+We are developing  improved Scope 3 data visibility and carbon  accounting methodologies to better guide and  reflect meaningful actions towards reducing  carbon emissions. [score: 0.72]
+
+Scope 3 is perhaps the ultimate decarbonization  challenge, necessitating the co-evolution of commercial,  technology, and policy best practices among  thousands of global stakeholders. [score: 0.79]
+
+Our carbon negative  commitment is an invitation to the world to participate  in this journey, translating ingenuity into action, and  action into impact. [score: 0.66]
+
+Our carbon negative commitment is an invitation to the  world to participate in the journey to emissions reductions. [score: 0.71]
+
+It is empowering our own teams to consider the full  environmental impact of their designs—both today and  in the future. [score: 0.83]
+
+All future built datacenters will be  LEED Gold certified with an emphasis on water and  energy conservation. [score: 0.60]
+
+The system’s wells and tanks will store water as heat  energy for future use, instead of expelling it through  the cooling towers, which is expected to reduce water  use by 30,280 m cubed a year or roughly the volume of 12  Olympic pools. [score: 0.60]
+
+As Microsoft and the industry  continues to advance immersion  cooling technology, we’re also looking  at ways to optimize the performance  of chips beyond their pre-defined  voltage, thermal, and power design  limits, a concept called overclocking. [score: 0.77]
+
+At the component level, we’re testing new  biodegradable materials to empower greater circularity  of our servers and exploring microfluidics to cool  chips more efficiently. [score: 0.63]
+
+As Microsoft and the industry  continues to advance immersion cooling technology,  we’re also looking at ways to optimize the performance  of chips beyond their pre-defined voltage, thermal, and  power design limits, a concept called overclocking. [score: 0.73]
+
+Investing in air-to-water generation  As climate change exacerbates water risks, air-to- water generation is an important innovation that we  are investing in, both within our own four walls and  through our recent investment in SOURCE, a renewable  water technology that is powered by solar. [score: 0.69]
+
+We are taking an increasingly circular  approach to materials management to  reduce waste and carbon emissions. [score: 0.67]
+
+Increasing reuse and recycling of servers  and components  By 2025, 90 percent of servers and components for all cloud hardware  will be reused and recycled with support from our Circular Centers. [score: 0.60]
+
+5  Eliminating single-use plastic  By 2025, we will eliminate single-use plastics in all Microsoft primary  product packaging and all IT asset packaging in our datacenters. [score: 0.79]
+
+Learn more in the Environmental Data Fact Sheet  Waste Table 2  Ensuring 90 percent of servers and components for all cloud hardware will be  reused and recycled by 2025  In FY22, Microsoft increased reuse and recycling of servers and components to 82 percent. [score: 0.81]
+
+We have taken an innovative approach  towards designing and implementing circularity into  our datacenters by launching Circular Centers to  optimize reuse. [score: 0.60]
+
+Using our current hardware  data collection process, we can now digest data such  as weights, material type, and recycled content that  can be used for regulatory purposes and to enable  our suppliers to deliver energy and material efficient  hardware contributing to carbon and waste reduction. [score: 0.70]
+
+Eliminating waste starts with sustainable design and  responsible sourcing at our campuses and datacenters. [score: 0.62]
+
+Designing for lower-carbon and circular  devices use  Our accessory devices have shorter development  cycles, making them a great vehicle to test new circular  materials. [score: 0.68]
+
+In our hardware supply chain, we  are working on using 100 percent recycled tin solder  paste and 100 percent recycled gold in our printed  circuit boards. [score: 0.66]
+
+Designing for and enabling repair  Repairability can offer significant carbon emissions and  waste reduction benefits. [score: 0.62]
+
+com and began  expanding our network of local Authorized Service  Providers who are qualified to repair Microsoft devices. [score: 0.62]
+
+Atlanta's  Zero Waste Westside initiative, sponsored with  Microsoft grant funding, shows the power of justice- centered community-led sustainability enterprises. [score: 0.70]
+
+4 Growing the scope and impact of our  environmental justice initiatives  As we learn from our existing partnerships, we are building  out the framework to integrate environmental justice  into our activities. [score: 0.72]
+
+5 Redesigning cloud rack packaging  To further our progress towards our zero waste objectives,  our Cloud Logistics Team has undertaken a deeply  collaborative process with stakeholders from across the  enterprise to source and design world class reusable  solutions for the safe and sustainable transportation of  Microsoft's server racks. [score: 0.73]
+
+We're aiming to reduce this  to zero with our new solutions, enabled by a circular supply  chain and logistics network design. [score: 0.72]
+
+Designing for circularity accelerates our path to zero waste  by 2030. [score: 0.71]
+
+Through our  Community Environmental Sustainability program, we  partner with global and local organizations to identify  priority environmental issues, and actively participate  in sustainable solutions to protect and restore our  communities' natural environments. [score: 0.69]
+
+From managing environmental footprints with  Microsoft Cloud for Sustainability to accelerating  innovation for new climate technologies, we’re working  to empower our customers and partners across  industries. [score: 0.61]
+
+We are advancing greener software  and reducing carbon intensity to improve device  sustainability, and helping organizations measure  and manage the health of the planet’s natural  ecosystems by building a Planetary Computer. [score: 0.91]
+
+Building a Planetary Computer  We are planning to aggregate environmental data from around the world and put  it to work through computing and machine learning in a Planetary Computer. [score: 0.61]
+
+Advancing climate aware software engineering  In 2022, we improved the efficiency of Microsoft Azure, decreased the carbon  intensity of Microsoft 365 cloud services, and launched the world's first “carbon- aware” updates in a PC operating system in September as part of the Windows 11  launch. [score: 0.90]
+
+Delivering digital technology for climate action  As of 2022, the Planetary Computer has over 80 data sources containing over  50 petabytes of data. [score: 0.71]
+
+In 2022, we expanded our AI for Good Lab into Egypt and Kenya to improve  climate resilience and launched Global Renewables Watch, a first-of-its-kind living  atlas aiming to map and measure all utility-scale solar and wind installations  on Earth. [score: 0.62]
+
+6  The Microsoft Cloud for Sustainability data model  initially focused on carbon and was expanded in 2022  to include water data. [score: 0.64]
+
+In 2022, we released the  Emissions Impact Dashboard for Microsoft 365 to  help Microsoft customers track datacenter emissions  related to their use of Microsoft Exchange Online,  SharePoint, OneDrive, Teams, Word, Excel, PowerPoint,  and Outlook. [score: 0.69]
+
+The Estimator  uses state-of-the-art carbon assessment technologies  and lifecycle assessments to enable customers to get  more accurate estimations of the carbon impact of the  Surface devices they purchase from us. [score: 0.78]
+
+In 2022, TerraPraxis  and Microsoft entered a strategic collaboration to  repurpose over 2,400 coal-fired power plants around  the world to run on carbon-free energy. [score: 0.67]
+
+TerraPraxis will  combine its deep expertise in energy with Microsoft  technology to build and deploy a set of tools to  automate the design and regulatory approval process  to decarbonize coal facilities with advanced small  modular nuclear reactors (SMRs). [score: 0.67]
+
+The partnership  will help to accelerate the transition of one of the  world's largest sources of carbon to zero emissions. [score: 0.87]
+
+The partnership started with  Microsoft's 2021 Hack for Sustainability when Microsoft  employees worked with TerraPraxis to develop the  winning project, “Beyond Coal. [score: 0.75]
+
+In 2020, Telstra was certified carbon  neutral in their operations, and both Microsoft and  Telstra have ambitious climate targets and share  a commitment to a net zero carbon future. [score: 0.90]
+
+7 >2,400  TerraPraxis and  Microsoft entered a  strategic collaboration  to repurpose over  2,400 coal-fired  power plants around  the world to run on  carbon-free energy. [score: 0.61]
+
+We are making ongoing investments to help  reduce the carbon intensity of our applications  in the cloud and on the edge. [score: 0.79]
+
+UBS is deploying the SDK in  a time-shifting application to make a computationally- intensive risk modeling platform carbon-aware. [score: 0.81]
+
+The Green Software Principles focus on energy  reduction, hardware efficiencies, and carbon aware  software. [score: 0.72]
+
+We are committed to advancing  greener software to help reduce the  carbon intensity of our applications  in the cloud and on the edge. [score: 0.70]
+
+This initiative has the potential to reduce datacenter  hardware needs, and the associated embodied carbon,  by more than 30 percent. [score: 0.73]
+
+The paper uses the principles of  carbon aware software and applies them to building  carbon measurement baselines and reduction strategies  for AI systems. [score: 0.64]
+
+++  ++  ++  ++  58  |  |  |  Green software (continued)  Reducing carbon intensity  of devices and gaming  We are empowering users with options for managing  their usage and developers with the tools to improve  power performance in games. [score: 0.71]
+
+Improving the carbon awareness of devices  With the Windows 11 2022 update, Windows Update is  now more carbon aware. [score: 0.76]
+
+When devices are plugged in,  turned on, and connected to the internet, and regional  carbon intensity data is available, Windows Update will  schedule installations at times of the day when a higher  proportion of electricity is coming from lower-carbon  sources on the electric grid. [score: 0.60]
+
+We also made changes to  the default power setting for Sleep and Screen Off to  help reduce carbon emissions when PCs are idle. [score: 0.67]
+
+Reducing emissions with cloud- powered computing  It is estimated that by 2025, Microsoft Azure will run  on 100 percent renewable energy. [score: 0.77]
+
+In 2022, Microsoft launched our Xbox app on Samsung  2022 Smart TVs, enabling users to play hundreds of  cloud-enabled Xbox Game Pass games like Halo Infinite,  Forza Horizon 5, and Microsoft Flight Simulator without  the need for a console, and soon benefiting from the  impressive renewable energy commitments in Azure. [score: 0.77]
+
+To support first and third-party publishers who design  and build games for our Xbox platform, we launched  new developer tooling in 2022 to monitor and reduce  the power consumption of their games. [score: 0.63]
+
+Our goal  is to support game publishers' sustainability goals  as we build solutions to lower carbon intensity on  console gaming. [score: 0.77]
+
+• Xbox Series X developer kits now include real-time  power performance feedback on front panel displays. [score: 0.67]
+
+We have enabled front-facing  solutions to reduce the carbon footprint of our web  services, including Sleeping Tabs and Efficiency Mode  performance optimizations in Microsoft Edge browser. [score: 0.88]
+
+For example, we have  revamped our Surface product development  process to define sustainability targets on  our product roadmaps for every major  future launch. [score: 0.62]
+
+Microsoft is in a  unique position to promote sustainability improvements  across the full devices stack: hardware, software,  and games. [score: 0.74]
+
+In September  2022, Windows Update became carbon aware, making  it easier for our devices to reduce carbon emissions. [score: 0.61]
+
+Informed by lifecycle assessments  (LCAs), we set explicit carbon and repairability targets  during product design to ensure year-over-year  improvement. [score: 0.85]
+
+Building a data-driven carbon platform  Each device we sell is a complex amalgamation of  new and recycled materials, manufacturing and  assembly processes, distribution, lifetime product  usage, and eventual disposition. [score: 0.68]
+
+We are building an advanced carbon data platform  that combines advancements in LCA, product usage  telemetry, and real-time distribution data to get  the most representative emissions profile possible  for our devices. [score: 0.82]
+
+com and  began expanding our network of local Authorized  Service Providers (ASPs) which are qualified to repair  Microsoft devices. [score: 0.62]
+
+We set explicit carbon and repairability  targets during product design to ensure year-over-year improvement. [score: 0.86]
+
+For example, in our hardware  supply chain, we are working on using 100 percent  recycled tin solder paste and 100 percent recycled  gold in our printed circuit boards. [score: 0.74]
+
+Our global logistics  network is optimized to reduce carbon intensity. [score: 0.73]
+
+In Europe,  our parcel deliveries are via electric or carbon neutral  vehicles, where the capability is available. [score: 0.66]
+
+Our global logistics network is  optimized to reduce carbon intensity. [score: 0.72]
+
+Increasing packaging sustainability  We are using innovation and design rigor to make  progress on our journey to eliminate single-use plastic  packaging by 2025. [score: 0.78]
+
+For example, we are implementing reuse for plastic  shipping trays in our battery pack supply chain and  will proliferate such improvements to other systems. [score: 0.75]
+
+Additionally, we're researching the potential use  of lower-carbon footprint plastic alternatives for  these trays. [score: 0.70]
+
+Microsoft starts by designing and  engineering our devices to be more energy efficient  and then uses software to further reduce emissions that  may result from device usage. [score: 0.65]
+
+We are partnering  with Carbon Trust and other global tech companies to  develop a common methodology for tracking the usage  emissions associated with connected devices. [score: 0.67]
+
+Improving efficiency through hardware  The Surface Pro 9 and Surface Laptop 5 are among  Microsoft's most energy efficient Surface computers. [score: 0.69]
+
+In particular, Surface Pro 9 5G, powered by ARM  technology, combines the energy efficiency of modern  mobile devices with the computing power of a  traditional computer. [score: 0.70]
+
+Building a Planetary Computer  We live in a new era of big data which includes  an abundance of high-resolution satellite imagery  and remote sensing (IoT) data. [score: 0.73]
+
+We are also jointly working towards empowering  users of Esri's advanced geospatial analytic tools with  data powered by the Planetary Computer. [score: 0.81]
+
+What's next for the Planetary Computer  Microsoft will continue to scale the Planetary Computer  to provide access to all the world's most important  spatiotemporal datasets. [score: 0.67]
+
+Investing in climate innovation  We have created a $1 billion Climate Innovation Fund to accelerate the global  development of carbon reduction and removal technologies, as well as related  climate solutions to reduce water and waste. [score: 0.78]
+
+Driving collective action  We will partner with others to drive deeper engagement to help the world reach  net zero, focused on rigorous and consistent carbon accounting and innovation,  water access and stress reduction, and the circular economy. [score: 0.72]
+
+Our progress  Advanced policy  To support our policy work, we published several briefs on carbon and electricity  policy to share the priorities and principles that guide Microsoft's policy advocacy  work around the world. [score: 0.70]
+
+Drove collective action  In 2022, we supported broad global action towards net zero by joining several  coalitions including the Carbon Call, the First Movers Coalition, the IMEC Sustainable  Semiconductor Technology and Systems, and WASH4Work. [score: 0.87]
+
+Other progress  Catalyzed solutions through sustainability science and research  We launched AI4Science and the Microsoft Climate Research Initiative  (MCRI) to advance the computational foundations, partnerships, and  tools needed to achieve a carbon negative future globally. [score: 0.72]
+
+We use approaches  from our global AI4Science team, launched in June  2022, to advance the state-of-the-art in scientific  discovery by using simulations of natural phenomena  to produce training data for large-scale AI models. [score: 0.66]
+
+The result  is a “what if” analysis tool that can help to estimate  how different farming practices will affect the amount  of carbon sequestered in the soil, potentially creating  new opportunities for farmers to participate in  carbon markets. [score: 0.61]
+
+Pursuing climate solutions through  computational foundations  The Microsoft Climate Research Initiative (MCRI),  launched in June 2022, aims to advance the  computational foundations, partnerships, and tools  needed to achieve a carbon negative future globally. [score: 0.75]
+
+From this analysis, researchers selected  three priority focus areas: reliable accounting of  carbon emissions, materials engineering for carbon  removal and reduction, and climate risk assessment. [score: 0.67]
+
+Improving carbon accounting  Microsoft convened a global team of experts to  identify and overcome the biggest constraints to  reliable carbon accounting. [score: 0.64]
+
+With funding  from MCRI, we have expanded these efforts to make  the data and technology improvements needed to  develop an AI model to predict localized carbon  emissions from abundant data on atmospheric carbon  concentrations. [score: 0.64]
+
+The Microsoft Climate Research  Initiative aims to advance the  computational foundations,  partnerships, and tools needed  to achieve a carbon negative  future globally. [score: 0.78]
+
+With the CIF, we invest in  innovative technologies and business models  that have the potential for meaningful,  measurable climate impact by 2030. [score: 0.89]
+
+Microsoft has a unique  perspective in the market for climate technologies. [score: 0.65]
+
+7  Investing to scale carbon and renewable  energy markets  Scaling carbon removal  We are investing in the development and growth  of carbon markets. [score: 0.78]
+
+Our investment in Heirloom will  support the deployment of durable, scalable carbon  removal, which combines the advantages of carbon  mineralization and direct air capture. [score: 0.67]
+
+We have also  selected Heirloom as part of our portfolio of carbon  removal purchases. [score: 0.73]
+
+With the combination of investment  and purchasing, we're enabling Heirloom to scale its  ability to sequester tens of millions of tons of carbon  by the end of the decade. [score: 0.80]
+
+7  Advancing carbon transformation  This year, we announced a partnership with Alaska  Airlines and Twelve in which our travel procurement  team will use Twelve's sustainable aviation fuel (SAF) to  reduce carbon emissions from Microsoft business travel. [score: 0.97]
+
+The partnership follows our investment in Twelve last  year to develop new carbon transformation pathways  for SAF production. [score: 0.82]
+
+Catalyst both funds large  demonstration projects and invests in first-of-their-kind  projects that use key emerging climate technologies,  such as clean hydrogen, direct air capture, long  duration energy storage, sustainable aviation fuel,  and manufacturing to decarbonize cement, steel,  and plastics. [score: 0.85]
+
+The focus is on accelerating the scale- up of these technologies which will be required for  an economywide net zero transition. [score: 0.75]
+
+7  Our investments are accelerating  climate breakthroughs. [score: 0.73]
+
+As both an investor and a buyer of sustainable  products, Microsoft is advancing climate solutions  along the commercialization curve to make them  affordable and scalable for others. [score: 0.81]
+
+Innovation spans geographies  The collective action of technology developers,  capital providers, policymakers, and enterprise  customers offers a path to international prosperity  in decarbonization. [score: 0.61]
+
+What's next  As we continue to invest in the innovative  technologies and businesses to scale carbon  reduction and removal globally, we are particularly  interested in investment opportunities which expand  our geographic focus and ensure underserved  markets and communities benefit from climate  solutions. [score: 0.60]
+
+When we announced  our commitment in 2020 to become carbon  negative by 2030, we pledged to use our voice  on public policy issues to help advance global  decarbonization efforts. [score: 0.83]
+
+In the United States, we advocated for climate  and energy investments as part of the recent US  infrastructure and climate laws, including the  Infrastructure Investment and Jobs Act and the Inflation  Reduction Act. [score: 0.62]
+
+At the state level, we supported  legislative and regulatory efforts to accelerate the clean  energy transition by encouraging the integration of  zero-emission generation and improving the resilience  of the electric grid. [score: 0.74]
+
+We continue to use our voice on public  policy issues to help advance global  decarbonization efforts. [score: 0.61]
+
+In the European Union, we supported a comprehensive  decarbonization plan with ambitious measures to  scale uptake of renewable energy, and informed  Europe's emergency measures to face the energy  crisis. [score: 0.83]
+
+Making green jobs, skills, and  entrepreneurship central to climate action  Using its Economic Graph insights, LinkedIn embarked  on a major research initiative focused on the rise  and proliferation of green skills throughout the labor  market. [score: 0.67]
+
+Microsoft is a founding member and  participating organization of the  Carbon Call, a multiple stakeholder  initiative focused on advancing more  reliable and interoperable global  carbon accounting. [score: 0.69]
+
+The initiative  accelerates work to improve measurement, reporting,  and verification of GHG emissions and removal. [score: 0.88]
+
+It uncovers and addresses gaps in existing carbon  accounting systems, focusing on carbon removal  and land sector, methane, and indirect emissions. [score: 0.61]
+
+First Movers Coalition  Microsoft is supporting development of new markets  for high-quality durable carbon dioxide removal  through participation in the First Movers Coalition. [score: 0.83]
+
+The coalition is a global initiative harnessing the  purchasing power of companies, along with innovative  carbon removal technologies, to decarbonize seven  “hard to abate” industrial sectors that currently account  for 30 percent of global emissions: aluminum, aviation,  chemicals, concrete, shipping, steel, and trucking. [score: 0.75]
+
+Transform to Net Zero (TONZ)  Microsoft is a founding member of TONZ, a cross- sector initiative to accelerate the transition to an  inclusive net zero global economy. [score: 0.82]
+
+The group's 2025  goal is for the world's largest 1,000 companies to have  targets backed up by transformation plans to achieve  net zero no later than 2050. [score: 0.78]
+
+The initiative develops  and delivers research, guidance, and implementable  roadmaps to enable all businesses to achieve net  zero emissions. [score: 0.73]
+
+Green Software Foundation  Microsoft is a founding member of the Green  Software Foundation, which is focused on building  a trusted ecosystem of people, standards, tooling,  and best practices for building carbon aware software. [score: 0.65]
+
+The foundation is creating carbon aware software  industry standards, driving awareness, growing  advocacy, and accelerating innovation to enable  developers to reduce the carbon emissions of the  software platforms that they build. [score: 0.84]
+
+IMEC Sustainable Semiconductor Technology  and Systems (SSTS)  In 2022, Microsoft joined the SSTS initiative to tackle  one of the largest contributors to Microsoft's Scope 3  carbon emissions—the silicon chips that power our  Windows PCs, Xbox devices, and datacenter servers. [score: 0.81]
+
+SSTS is an industrywide initiative aimed at creating  a detailed emissions profile of the semiconductor  fabrication process, which will deliver insights about  the electricity, materials, and water required to  manufacture each chip that we purchase. [score: 0.80]
+
+This in-depth  look at chip manufacturing will allow us to identify  the biggest sources of emissions, not only at the  fabrication facilities, but deeper in the supply chain,  helping us target reductions where it matters most. [score: 0.73]
+
+Playing for the Planet  Xbox is a founding partner of Playing for the Planet,  a UN Environment Programme facilitated initiative  focused on reducing the impact of the gaming  ecosystem on the environment through better carbon  accounting and educating gamers everywhere on  sustainable causes. [score: 0.61]
+
+Some highlights  include partnering with Ubisoft to deliver Project  Rebirth, the Riders Republic in-game tree-planting  campaign and climate march. [score: 0.85]
+
+We continue  to work with the coalition to support the capital  equipment industry's acceleration to a closed loop  model that preserves and recovers the value of  materials across a product's lifecycle, leading to reduced  waste and carbon emissions. [score: 0.78]
+
+As a group, we're working  towards circularity standards and methodology that  measures the environmental impacts of “X as a Service”  models compared to traditional ownership models. [score: 0.74]
+
+With a focus  on Indigenous digital inclusion, the Indigenous-led  and co-designed program aims to provide on-ground  digital skills that will deliver environmental, cultural, and  economic benefits for local Indigenous communities  and Indigenous land and sea management practitioners  in remote regions of northern Australia. [score: 0.64]
+
+Our LinkedIn community kicked off the  fiscal year with a refresh of the Go Green program and  onboarded 30 new leads across the globe. [score: 0.65]
+
+TerraPraxis launched the Repowering Coal EVALUATE  solution at COP27. [score: 0.72]
+
+These projects include providing tools for web  developers to use more environmentally conscious  engineering practices and creating a tool to generate  heat maps for any location, which is critical for  protecting vulnerable populations in extreme heat  events. [score: 0.82]
+
+For Earth Month  2022, LinkedIn featured equitable access to green jobs  and a new green jobs collection to make it easy for  green jobseekers and employers looking for green  talent to connect on the LinkedIn platform. [score: 0.61]
+
+We presented  greenhouse gas emissions in accordance with the  GHG Protocol and management's criteria and select  environmental metrics that both reference the Global  Reporting Initiative (GRI) Standards and are reported  in accordance with management's criteria as of and for  the fiscal year ended June 30, 2022 (FY22). [score: 0.74]
+
+In 2020, Microsoft  conducted a materiality assessment focused on  environmental sustainability, which can be accessed in  the 2020 Microsoft Sustainability Report. [score: 0.65]
+
+Note 9 This carbon intensity estimate was calculated by dividing the monthly datacenter emissions associated  with usage of SharePoint and OneDrive (including compute, bandwidth, and storage) for each month in  Microsoft's 2022 fiscal year by the volume of data stored in these tools as of the end of each month. [score: 0.71]
