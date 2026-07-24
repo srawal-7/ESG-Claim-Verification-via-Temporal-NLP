@@ -1,0 +1,9 @@
+ticker,total_claims,silent,addressed,quantified,silence_rate,mean_linguistic_div,mean_cos_sim,mean_quant_shortfall
+AAPL,57,46,11,0,0.807,0.539,0.461,
+CVX,16,2,14,0,0.125,0.356,0.644,
+JPM,11,11,0,0,1.0,0.569,0.431,
+MSFT,33,12,21,0,0.364,0.412,0.588,
+NEE,23,14,9,0,0.609,0.464,0.536,
+PG,6,3,3,0,0.5,0.464,0.536,
+WMT,5,1,4,0,0.2,0.386,0.614,
+XOM,2,0,2,0,0.0,0.289,0.712,
