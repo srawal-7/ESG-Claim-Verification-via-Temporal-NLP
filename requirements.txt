@@ -1,0 +1,9 @@
+sec-edgar-downloader
+pymupdf
+transformers
+torch
+spacy
+pandas
+numpy
+sentence-transformers
+scikit-learn
